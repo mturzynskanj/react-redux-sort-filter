@@ -63,6 +63,12 @@ let data = [
     "age": 55,
     "priority": 3,
     "category":"cat2"
+    },
+    {
+    "name":"Karol",
+    "age": 50,
+    "priority": 1,
+    "category":"cat1"
     }
 ];
 
